@@ -1,3 +1,9 @@
+# box link to download "input_data" folder containing input data files used for the original analysis:
+## https://bcm.box.com/s/5lxqk347vvwhkmeh34ml7jybejrpmh9y
+
+# box link to download "ClusteringTree" folder containing clustering tree results from the original analysis:
+## https://bcm.box.com/s/y0accowv3zm3j8a72nokwfpkcsc8ty6v
+
 # reading in discovery cohort metadata
 metadf <- openxlsx::read.xlsx("./input_data/Metadata-AllBalanced-MA.xlsx")
 
