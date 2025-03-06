@@ -2,3 +2,5 @@
 .Rproj.user
 input_data
 ClusteringTree
+*.csv
+*.xlsx
